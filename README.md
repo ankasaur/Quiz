@@ -1,5 +1,6 @@
 # Quiz
 Quiz project completed while studying Java at UoPeople
+____
 
 This project implements object-oriented techniques combined together as a quiz.
 
